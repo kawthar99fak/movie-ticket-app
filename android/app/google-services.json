@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908660633049",
+    "project_id": "movieticketapp-bba0b",
+    "storage_bucket": "movieticketapp-bba0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908660633049:android:0260856fd9901f166cfdc8",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908660633049-60hg96fa39a85q4fddpi245at8tgd37a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie",
+            "certificate_hash": "a6b5cfe4102d6f3959e651271ec139e79539c019"
+          }
+        },
+        {
+          "client_id": "908660633049-6osk2usj1cqlkos225ba541idpb0r1b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0c9-vEqFwpQ45DwTywgvJrgY0bSRiDnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908660633049-6osk2usj1cqlkos225ba541idpb0r1b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
